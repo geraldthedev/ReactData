@@ -1,10 +1,8 @@
-'use strict'
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-const rap = React.createElement;
-
-class InputBase extends React.Component{
-    return rap(
-        <input>
-        </input>
-    );
+class InputBar extends React.Component{
+    render(){
+        
+    }
 }
