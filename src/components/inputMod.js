@@ -1,4 +1,5 @@
 import React from 'react';
+const mongoose = require('mongoose');
 
 class InputBar extends React.Component{
 render() {
