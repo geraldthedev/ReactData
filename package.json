@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hakeem1106/ReactData#readme",
   "dependencies": {
     "babel": "^6.23.0",
+    "mongoose": "^5.4.9",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "^2.1.3",
