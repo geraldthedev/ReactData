@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import babel from 'babel';
+
 
 
 
 
 class InputBar extends React.Component{
-
-React.createElement()
+render() {
+    return(
+        <input>
+        </input>
+    );
+  }
 
 }
 
