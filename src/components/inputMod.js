@@ -5,9 +5,9 @@ class InputBar extends React.Component{
 render() {
     return(
         <div className="inputField">
-        <input>
+        <input method ="post">
         </input>
-        <button>Submit</button>
+        <button type="Submit">Submit</button>
         </div>
     );
   }
