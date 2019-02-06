@@ -1,13 +1,16 @@
 import React from 'react';
-const mongoose = require('mongoose');
+import wave from '../dbconnect';
+
 
 class InputBar extends React.Component{
 render() {
     return(
         <div className="inputField">
-        <input method ="post">
+        <form method= "post">
+        <input>
         </input>
         <button type="Submit">Submit</button>
+        </form>
         </div>
     );
   }
